@@ -17,7 +17,7 @@
 ### 🔭 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26FPnsRww2F68D6By/giphy.gif" width="200" alt="Hello GIF"/>
+
 </p>
 
 - 🌱 I’m currently enhancing my skills in **HTML, CSS, PHP, Laravel, Python, Java, and Web Development**.
@@ -92,5 +92,4 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/1yld7nW3oQ6JzXycj9/giphy.gif" width="200" alt="Bye GIF"/>
 </p>
