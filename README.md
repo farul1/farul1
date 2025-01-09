@@ -55,18 +55,22 @@
 #### 🚀 **Cafe VNT with Midtrans Payment**
 [GitHub Repository](https://github.com/farul1/Kasir_CafeVNT)  
 A complete cafe POS system with seamless Midtrans payment integration for better customer experience.  
+![Kasir](https://path/to/kasir.gif)  <!-- Add path to GIF here -->
 
 #### ⚙️ **Cafe VNT Jenkins Pipeline**
 [GitHub Repository](https://github.com/farul1/Kasir_CafeVNT/blob/main/Jenkinsfile)  
 CI/CD implementation for Cafe VNT project using Jenkins, automating builds and deployments.  
+![Jenkins](https://path/to/jenkins.gif)  <!-- Add path to GIF here -->
 
 #### 🚌 **Fastline Bus Booking System**
 [GitHub Repository](https://github.com/farul1/Fastline)  
 Efficient bus booking system with a user-friendly interface for optimal booking management.  
+![Fastline](https://path/to/fastline.gif)  <!-- Add path to GIF here -->
 
 #### 💄 **Wellness Shine**
 [GitHub Repository](https://github.com/farul1/Wellnes_shine)  
 An innovative cosmetic store platform showcasing vibrant e-commerce design and functionality.  
+![Wellness](https://path/to/wellnes.gif)  <!-- Add path to GIF here -->
 
 <p align="center">
   <a href="https://farul1.github.io/Syafarul_Portofolio/" target="_blank">
@@ -80,9 +84,11 @@ An innovative cosmetic store platform showcasing vibrant e-commerce design and f
 
 - **[React Master - Udemy](https://www.udemy.com/certificate/UC-934de30e-10e0-41cb-9f98-e3713867752d/):**  
   Comprehensive training in React programming for foundational skills.  
+  ![React Certificate](https://path/to/sertifikatreact.jpg)  <!-- Add path to image here -->
 
 - **[Web Development Pemro PHP - Udemy](https://www.udemy.com/certificate/UC-320243f3-5014-468f-a8ba-526cc1d23d65/):**  
-   This is a completion certificate for a PHP web development course with a duration of 12.5 total hours (12.5 total jam) 
+  This is a completion certificate for a PHP web development course with a duration of 12.5 total hours (12.5 total jam).  
+  ![PHP Certificate](https://path/to/sertifikatphp.jpg)  <!-- Add path to image here -->
 
 ---
 
