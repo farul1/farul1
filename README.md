@@ -11,20 +11,20 @@
 ---
 
 <p align="center">
-  <a href="https://farul1.github.io/Syafarul_Portofolio/">
+  <a href="https://farul1.github.io/Syafarul_Portofolio/" target="_blank">
     <img src="https://img.shields.io/badge/View-Portfolio-blue?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 🖥️ About Me
+### 🔠 About Me
 
 - 🌱 Currently enhancing my skills in **HTML, CSS, PHP, Laravel, Python, Java, and Web Development**.  
-- 👨‍💻 Check out my projects on [my portfolio website](https://farul1.github.io/Syafarul_Portofolio/).  
-- 📝 Sharing insights on **Web Development**, **Best Practices**, and **Cloud Solutions**.  
-- 💬 Reach out for collaborations or discussions on **Backend/Frontend Development**, **Cloud Architecture**, and **DevOps**.  
-- 📫 Reach me at **syafarul.priwantoro@gmail.com** or connect via [LinkedIn](https://www.linkedin.com/in/syafarul-priwantoro-036039197/).  
+- 👨‍💻 Check out my latest works on [my portfolio website](https://farul1.github.io/Syafarul_Portofolio/).  
+- 🗲 Passionate about **Web Development**, **Best Practices**, and **Cloud Solutions**.  
+- 💬 Open to collaborations in **Backend/Frontend Development**, **Cloud Architecture**, and **DevOps**.  
+- 📧 Reach me at **syafarul.priwantoro@gmail.com** or connect via [LinkedIn](https://www.linkedin.com/in/syafarul-priwantoro-036039197/).  
 
 ---
 
@@ -50,10 +50,28 @@
 
 ---
 
-### 🏆 Achievements
+### 🌟 Featured Projects
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=farul1&theme=dracula" alt="GitHub Trophies" />
+#### 🚀 **Cafe VNT with Midtrans Payment**
+[GitHub Repository](https://github.com/farul1/Kasir_CafeVNT)  
+A complete cafe POS system with seamless Midtrans payment integration for better customer experience.  
+
+#### ⚙️ **Cafe VNT Jenkins Pipeline**
+[GitHub Repository](https://github.com/farul1/Kasir_CafeVNT/blob/main/Jenkinsfile)  
+CI/CD implementation for Cafe VNT project using Jenkins, automating builds and deployments.  
+
+#### 🚌 **Fastline Bus Booking System**
+[GitHub Repository](https://github.com/farul1/Fastline)  
+Efficient bus booking system with a user-friendly interface for optimal booking management.  
+
+#### 💄 **Wellness Shine**
+[GitHub Repository](https://github.com/farul1/Wellnes_shine)  
+An innovative cosmetic store platform showcasing vibrant e-commerce design and functionality.  
+
+<p align="center">
+  <a href="https://farul1.github.io/Syafarul_Portofolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Explore-More%20Projects-lightblue?style=for-the-badge" alt="Explore Projects" />
+  </a>
 </p>
 
 ---
@@ -61,30 +79,17 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/syafarul-priwantoro-036039197/" target="blank">
+  <a href="https://www.linkedin.com/in/syafarul-priwantoro-036039197/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/syafarul__" target="blank">
+  <a href="https://instagram.com/syafarul__" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.gg/U3K6jFWG" target="blank">
+  <a href="https://discord.gg/U3K6jFWG" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200" alt="Welcome GIF"/>
-</p>
-
----
-
-### 🌟 Featured Projects
-
-- **[My Portfolio Website](https://farul1.github.io/Syafarul_Portofolio/):** A showcase of my work, achievements, and skills.  
-- **[Cloud-based POS System](#):** An innovative Point of Sale solution designed with cloud computing in mind. *(Coming Soon)*  
-
-<p align="center">
-  <a href="https://farul1.github.io/Syafarul_Portofolio/">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-lightblue?style=for-the-badge" alt="Portfolio Badge" />
-  </a>
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200" alt="Welcome GIF" />
 </p>
