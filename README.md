@@ -63,7 +63,7 @@ Efficient bus booking system with a user-friendly interface for optimal booking 
 [GitHub Repository](https://github.com/farul1/Wellnes_shine)  
 An innovative cosmetic store platform showcasing vibrant e-commerce design and functionality.  
 <p align="center">
-  <img src=/wellnes.gif" width="350" alt="Wellness" />
+  <img src="wellnes.gif" width="350" alt="Wellness" />
 </p>
 
 <p align="center">
