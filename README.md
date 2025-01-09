@@ -56,28 +56,28 @@
 [GitHub Repository](https://github.com/farul1/Kasir_CafeVNT)  
 A complete cafe POS system with seamless Midtrans payment integration for better customer experience.  
 <p align="center">
-  <img src="https://path/to/kasir.gif" width="150" alt="Kasir" />
+  <img src="kasir.gif" width="350" alt="Kasir" />
 </p>
 
 #### ⚙️ **Cafe VNT Jenkins Pipeline**
 [GitHub Repository](https://github.com/farul1/Kasir_CafeVNT/blob/main/Jenkinsfile)  
 CI/CD implementation for Cafe VNT project using Jenkins, automating builds and deployments.  
 <p align="center">
-  <img src="https://path/to/jenkins.gif" width="150" alt="Jenkins" />
+  <img src="jenkins.gif" width="350" alt="Jenkins" />
 </p>
 
 #### 🚌 **Fastline Bus Booking System**
 [GitHub Repository](https://github.com/farul1/Fastline)  
 Efficient bus booking system with a user-friendly interface for optimal booking management.  
 <p align="center">
-  <img src="https://path/to/fastline.gif" width="150" alt="Fastline" />
+  <img src="fastline.gif" width="350" alt="Fastline" />
 </p>
 
 #### 💄 **Wellness Shine**
 [GitHub Repository](https://github.com/farul1/Wellnes_shine)  
 An innovative cosmetic store platform showcasing vibrant e-commerce design and functionality.  
 <p align="center">
-  <img src="https://path/to/wellnes.gif" width="150" alt="Wellness" />
+  <img src=/wellnes.gif" width="350" alt="Wellness" />
 </p>
 
 <p align="center">
@@ -93,13 +93,13 @@ An innovative cosmetic store platform showcasing vibrant e-commerce design and f
 - **[React Master - Udemy](https://www.udemy.com/certificate/UC-934de30e-10e0-41cb-9f98-e3713867752d/):**  
   Comprehensive training in React programming for foundational skills.  
 <p align="center">
-  <img src="sertifikatreact.jpg" width="200" alt="React Certificate" />
+  <img src="sertifikatreact.jpg" width="300" alt="React Certificate" />
 </p>
 
 - **[Web Development Pemro PHP - Udemy](https://www.udemy.com/certificate/UC-320243f3-5014-468f-a8ba-526cc1d23d65/):**  
   This is a completion certificate for a PHP web development course with a duration of 12.5 total hours (12.5 total jam).  
 <p align="center">
-  <img src="sertifikatphp.jpg" width="200" alt="PHP Certificate" />
+  <img src="sertifikatphp.jpg" width="300" alt="PHP Certificate" />
 </p>
 
 ---
