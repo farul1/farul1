@@ -76,6 +76,16 @@ An innovative cosmetic store platform showcasing vibrant e-commerce design and f
 
 ---
 
+### 📜 Certifications
+
+- **[React Master - Udemy](https://www.udemy.com/certificate/UC-934de30e-10e0-41cb-9f98-e3713867752d/):**  
+  Comprehensive training in React programming for foundational skills.  
+
+- **[Web Development Pemro PHP - Udemy](https://www.udemy.com/certificate/UC-320243f3-5014-468f-a8ba-526cc1d23d65/):**  
+   This is a completion certificate for a PHP web development course with a duration of 12.5 total hours (12.5 total jam) 
+
+---
+
 ### 🌐 Connect with Me
 
 <p align="center">
