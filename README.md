@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Syafarul Priwantoro</h1>
-<h3 align="center">🚀 Passionate Software Developer & Cloud Enthusiast</h3>
+# Hi 👋, I'm Syafarul Priwantoro
+### 🚀 Passionate Software Developer & Cloud Enthusiast
+
+---
 
 <p align="center">
   🎓 Currently studying Information Systems at <strong>Telkom University Surabaya</strong><br>
@@ -7,8 +9,6 @@
   💼 Focused on Backend & Frontend Development<br>
   🌐 Exploring Cloud Computing, DevOps, and System Architecture
 </p>
-
----
 
 <p align="center">
   <a href="https://farul1.github.io/Syafarul_Portofolio/" target="_blank">
@@ -38,29 +38,25 @@
 
 ### 🌟 Featured Projects
 
-#### 🚀 **Cafe VNT with Midtrans Payment**
-[GitHub Repository](https://github.com/farul1/Kasir_CafeVNT)  
+#### 🚀 **[Cafe VNT with Midtrans Payment](https://github.com/farul1/Kasir_CafeVNT)**
 A complete cafe POS system with seamless Midtrans payment integration for better customer experience.  
 <p align="center">
   <img src="kasir.gif" width="350" alt="Kasir" />
 </p>
 
-#### ⚙️ **Cafe VNT Jenkins Pipeline**
-[GitHub Repository](https://github.com/farul1/Kasir_CafeVNT/blob/main/Jenkinsfile)  
+#### ⚙️ **[Cafe VNT Jenkins Pipeline](https://github.com/farul1/Kasir_CafeVNT/blob/main/Jenkinsfile)**
 CI/CD implementation for Cafe VNT project using Jenkins, automating builds and deployments.  
 <p align="center">
   <img src="jenkins.gif" width="350" alt="Jenkins" />
 </p>
 
-#### 🚌 **Fastline Bus Booking System**
-[GitHub Repository](https://github.com/farul1/Fastline)  
+#### 🚌 **[Fastline Bus Booking System](https://github.com/farul1/Fastline)**
 Efficient bus booking system with a user-friendly interface for optimal booking management.  
 <p align="center">
   <img src="fastline.gif" width="350" alt="Fastline" />
 </p>
 
-#### 💄 **Wellness Shine**
-[GitHub Repository](https://github.com/farul1/Wellnes_shine)  
+#### 💄 **[Wellness Shine](https://github.com/farul1/Wellnes_shine)**
 An innovative cosmetic store platform showcasing vibrant e-commerce design and functionality.  
 <p align="center">
   <img src="wellnes.gif" width="350" alt="Wellness" />
@@ -83,12 +79,13 @@ An innovative cosmetic store platform showcasing vibrant e-commerce design and f
 </p>
 
 - **[Web Development Pemro PHP - Udemy](https://www.udemy.com/certificate/UC-320243f3-5014-468f-a8ba-526cc1d23d65/):**  
-  This is a completion certificate for a PHP web development course with a duration of 12.5 total hours (12.5 total jam).  
+  Completion certificate for a PHP web development course (12.5 hours).  
 <p align="center">
   <img src="sertifikatphp.jpg" width="300" alt="PHP Certificate" />
 </p>
 
 ---
+
 ### 📊 GitHub Highlights
 
 <p align="center">
@@ -119,4 +116,4 @@ An innovative cosmetic store platform showcasing vibrant e-commerce design and f
 
 <p align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100" alt="Welcome GIF" />
-</p>.
+</p>
