@@ -18,13 +18,13 @@
 
 ---
 
-### 🖥️ About Me
+### 🔠 About Me
 
 - 🌱 Currently enhancing my skills in **HTML, CSS, PHP, Laravel, Python, Java, and Web Development**.  
 - 👨‍💻 Check out my projects on [my portfolio website](https://farul1.github.io/Syafarul_Portofolio/).  
-- 📝 Sharing insights on **Web Development**, **Best Practices**, and **Cloud Solutions**.  
+- 🗲 Sharing insights on **Web Development**, **Best Practices**, and **Cloud Solutions**.  
 - 💬 Reach out for collaborations or discussions on **Backend/Frontend Development**, **Cloud Architecture**, and **DevOps**.  
-- 📫 Reach me at **syafarul.priwantoro@gmail.com** or connect via [LinkedIn](https://www.linkedin.com/in/syafarul-priwantoro-036039197/).  
+- 📧 Reach me at **syafarul.priwantoro@gmail.com** or connect via [LinkedIn](https://www.linkedin.com/in/syafarul-priwantoro-036039197/).  
 
 ---
 
@@ -50,10 +50,17 @@
 
 ---
 
-### 🏆 Achievements
+### 🌟 Featured Projects
 
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=farul1&theme=dracula" alt="GitHub Trophies" />
+- **[Cafe VNT with Midtrans Payment](https://github.com/farul1/Kasir_CafeVNT):** A complete cafe POS system integrating Midtrans for seamless payment processing.  
+- **[Cafe VNT Jenkins Pipeline](https://github.com/farul1/Kasir_CafeVNT/blob/main/Jenkinsfile):** CI/CD implementation for Cafe VNT project using Jenkins.  
+- **[Fastline Bus Booking System](https://github.com/farul1/Fastline):** An efficient bus booking system designed for optimal user experience.  
+- **[Wellness Shine](https://github.com/farul1/Wellnes_shine):** A vibrant and innovative cosmetic store platform showcasing the best in e-commerce design.  
+
+<p align="center">
+  <a href="https://farul1.github.io/Syafarul_Portofolio/">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-lightblue?style=for-the-badge" alt="Portfolio Badge" />
+  </a>
 </p>
 
 ---
@@ -74,17 +81,4 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200" alt="Welcome GIF"/>
-</p>
-
----
-
-### 🌟 Featured Projects
-
-- **[My Portfolio Website](https://farul1.github.io/Syafarul_Portofolio/):** A showcase of my work, achievements, and skills.  
-- **[Cloud-based POS System](#):** An innovative Point of Sale solution designed with cloud computing in mind. *(Coming Soon)*  
-
-<p align="center">
-  <a href="https://farul1.github.io/Syafarul_Portofolio/">
-    <img src="https://img.shields.io/badge/Visit-Portfolio-lightblue?style=for-the-badge" alt="Portfolio Badge" />
-  </a>
 </p>
