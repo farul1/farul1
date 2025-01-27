@@ -126,6 +126,48 @@ Click pada gambar untuk menonton lebih lanjut..
   </a>
 </p>
 
+## 🚀 GitHub Actions: Automating Snake Animation
+
+In this project, I use **GitHub Actions** to automatically generate a Snake animation every time there is a push or pull request to the `main` branch. Here is the configuration for the `generate-snake.yml` workflow:
+
+```yaml
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate Snake Image
+        run: |
+          python generate_snake.py
+          
+      - name: Upload Snake Image
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-image
+          path: ./snake-image.png
 
 
 <p align="center">
