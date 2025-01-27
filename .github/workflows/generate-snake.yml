@@ -13,25 +13,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Checkout repository
       - name: Checkout code
         uses: actions/checkout@v2
 
+      # 2. Setup Python environment
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
 
+      # 3. Install dependencies (make sure snake-generating package ada di requirements.txt)
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # 4. Generate Snake Image in SVG format
       - name: Generate Snake Image
         run: |
           python generate_snake.py
           
+      # 5. Upload Snake Image
       - name: Upload Snake Image
         uses: actions/upload-artifact@v2
         with:
           name: snake-image
-          path: ./snake-image.png
+          path: ./snake-image.svg   # Pastikan format file SVG
