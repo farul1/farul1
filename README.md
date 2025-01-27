@@ -62,6 +62,12 @@ An innovative cosmetic store platform showcasing vibrant e-commerce design and f
   <img src="wellnes.gif" width="350" alt="Wellness" />
 </p>
 
+#### 🎥 **[Ubuntu Video Remastering Project](https://youtu.be/_fG77lFD9cc?si=ZIu4_rIIpXaoYcQQ)**
+A YouTube project showcasing Ubuntu video remastering, designed to enhance video quality using open-source tools.  
+<p align="center">
+  <img src="ubuntu.gif" width="350" alt="Ubuntu Video Remastering" />
+</p>
+
 <p align="center">
   <a href="https://farul1.github.io/Syafarul_Portofolio/" target="_blank">
     <img src="https://img.shields.io/badge/Explore-More%20Projects-lightblue?style=for-the-badge" alt="Explore Projects" />
