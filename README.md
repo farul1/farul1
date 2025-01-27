@@ -126,19 +126,6 @@ Click pada gambar untuk menonton lebih lanjut..
   </a>
 </p>
 
----
-
-### 🐍 Fun Time - Play Snake Game!
-
-<p align="center">
-  Klik gambar di bawah untuk memainkan permainan ular 🎮
-</p>
-
-<p align="center">
-  <a href="https://playsnake.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Snake_game_on_mobile_phone.png" alt="Play Snake Game" width="300" />
-  </a>
-</p>
 
 
 <p align="center">
