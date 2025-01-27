@@ -62,7 +62,16 @@ An innovative cosmetic store platform showcasing vibrant e-commerce design and f
   <img src="wellnes.gif" width="350" alt="Wellness" />
 </p>
 
-#### 🎥 **<p align="center"> <a href="https://youtu.be/_fG77lFD9cc?si=ZIu4_rIIpXaoYcQQ" target="_blank"> <img src="https://youtu.be/_fG77lFD9cc?si=ZIu4_rIIpXaoYcQQ" alt="Ubuntu Video Remastering" width="350" /> </a> </p>
+### 🎥 Ubuntu Video Remastering
+
+<p align="center">
+  <a href="https://youtu.be/_fG77lFD9cc?si=ZIu4_rIIpXaoYcQQ" target="_blank">
+    <img src="https://img.youtube.com/vi/_fG77lFD9cc/maxresdefault.jpg" alt="Ubuntu Video Remastering" width="600" />
+  </a>
+</p>
+
+Click on the image above to watch the video on YouTube.
+
 
 
 <p align="center">
