@@ -70,7 +70,7 @@ An innovative cosmetic store platform showcasing vibrant e-commerce design and f
   </a>
 </p>
 
-Click on the image above to watch the video on YouTube.
+Click pada gambar untuk menonton lebih lanjut..
 
 
 
