@@ -116,7 +116,7 @@ Click pada gambar untuk menonton lebih lanjut..
   <img src="https://raw.githubusercontent.com/farul1/farul1/output/snake.svg" alt="Snake animation" width="1000" />
 </p>
 <p align="center">
-  🐍💨 **Snake is on the move!** 🐍💨
+  🐍💨 ** Snake is on the move! ** 🐍💨
 </p>
 
 
